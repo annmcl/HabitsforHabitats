@@ -1,0 +1,143 @@
+
+h1{
+    font-family: 'Fredericka the Great';
+}
+
+a{
+    text-decoration: none;
+}
+
+#mainBody{
+    width: auto;
+    background-image: url('Yosemite.jpg');
+    background-repeat: no-repeat;
+    background-color: #758B72;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Oswald';
+}
+
+#eventBody{
+    width: auto;
+    background-image: url('event2.png');
+    background-repeat: no-repeat;
+    background-color: #758B72;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Oswald';
+}
+
+#taskBody{
+    width: auto;
+    height: auto;
+    background-image: url('El Capitan.jpg');
+    background-repeat: no-repeat;
+    background-color: #758B72;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Oswald';
+}
+
+#leaveBody{
+    width: auto;
+    height: auto;
+    background-color: antiquewhite;
+    background-size: cover;
+    font-family: 'Oswald';
+    text-align: center;
+}
+#resourceBody{
+    width: auto;
+    height: auto;
+    background-color: antiquewhite;
+    background-size: cover;
+    font-family: 'Oswald';
+    text-decoration: none;
+}
+
+
+.head{
+    text-align: center;
+    margin-bottom: 5%;
+    width: 100%;
+}
+#webName{
+    font-size: 76px;
+    text-align: center;
+    margin: 0 5% 0 5%;
+    color: antiquewhite;
+    text-shadow: 4px 4px 20px #758B72;
+}
+
+.questions{
+    margin: 10% 33% 10% 33%;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 2em;
+    font-family: 'Oswald';
+}
+.buttons{
+    border: none;
+    background-color: #758B72;
+    width: 33%;
+    float: none;
+    border-radius: 8px;
+    margin: 3% 33% 4% 31%;
+    padding: 2% 2%;
+    position: relative;
+    font-family: 'Fredericka the Great';
+    font-size: 24px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+
+
+.buttons:hover{
+    background-color: #8c7373;
+    border: none;
+}
+
+.addButton{
+    background-color: #8c7373;
+    border: none;
+    border-radius: 8px;
+    color: antiquewhite;
+    font-size: 1em;
+    text-align: center;
+    width: 20%;
+    heigth: 10%;
+    margin: 5% 40% 6% 40%;
+    padding: 2%;
+    display: block;
+    float: none;
+}
+
+.et{
+    text-align: center;
+    width: 100%;
+    font-family: 'Fredericka the Great';
+}
+
+.list{
+    font-size: 2em;
+    margin: 2%;
+    font-family: 'Fredericka the Great';
+}
+.divs{
+    display: inline-block;
+    text-align: left;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: .9em;
+    background-color: #8c7373;
+    color: antiquewhite;
+    text-align: center;
+}
